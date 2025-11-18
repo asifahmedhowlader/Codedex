@@ -22,7 +22,7 @@ body{
     background-color: rgba(255, 255, 255,0.20);
     border-radius: 2em;
     color: white;
-    padding: 4em 3em;
+    padding: 4em 5em;
     
 }
 .title{
@@ -66,6 +66,8 @@ hr{
     margin-top: 10px;
     cursor: pointer;
     transition: 0.2s, ease-in-out;
+    font-size: medium;
+    font-weight: 700;
     
 
 }
